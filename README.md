@@ -10,8 +10,8 @@ Clarify's standard billing.
 
 ### Nginx
 
-Add the `default.conf` file to your nginx server, edit the server name, and
-change `CLARIFY_API_KEY` to your application's API key.
+Add the `clarify-search-proxy.conf` file to your nginx server, edit the server
+name, and change `CLARIFY_API_KEY` to your application's API key.
 
 ### Docker
 
