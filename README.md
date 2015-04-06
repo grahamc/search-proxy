@@ -15,7 +15,7 @@ name, and change `CLARIFY_API_KEY` to your application's API key.
 
 ### Docker
 
-`docker run -p 8080:80 -e CLARIFY_API_KEY=your-key-here clarifyio/search-proxy`
+`docker run -p 8080:80 -e CLARIFY_API_KEY=your-key-here clarifyio/search-proxy:latest`
 
 ## Then
 
